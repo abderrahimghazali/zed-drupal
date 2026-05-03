@@ -1,4 +1,4 @@
-id = "drupal"
+id = "zed-drupal"
 name = "Drupal"
 description = "Drupal development support for Zed: PHPCS/PHPCBF (drupal/coder), PHPStan, hook and Twig completion, Drupal API search, YAML validation."
 version = "0.0.1"
