@@ -12,5 +12,5 @@ version = "0.0.1"
 
 [language_servers.drupal-lsp]
 name = "Drupal"
-languages = ["PHP"]
-language_ids = { PHP = "php" }
+languages = ["PHP", "Twig"]
+language_ids = { PHP = "php", Twig = "twig" }
