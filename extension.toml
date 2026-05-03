@@ -9,3 +9,8 @@ repository = "https://github.com/abderrahimghazali/zed-drupal"
 [lib]
 kind = "Rust"
 version = "0.0.1"
+
+[language_servers.drupal-lsp]
+name = "Drupal"
+languages = ["PHP"]
+language_ids = { PHP = "php" }
